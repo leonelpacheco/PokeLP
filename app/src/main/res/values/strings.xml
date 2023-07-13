@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PokeXcaretLP</string>
+
+    <string name="preference_file_key">PokeXcaretLP</string>
+
+
+    <string name="txt_setError">Campo vacio</string>
+
+    <string name="dialog_info_txt_title">Aviso</string>
+    <string name="dialog_info_txt_contenido">Estimado usuario ¿Deseas cerrar la sesión? \n</string>
+    <string name="dialog_btn_cancel">Cancelar</string>
+    <string name="dialog_btn_accept">Aceptar</string>
+    <string name="login_dialog_error">Usuario y contraseña incorrectos intente de nuevo. \n</string>
+
+    <string name="rowpokemon_txt_titlepok">Charizard</string>
+
+    <string name="detailpokemon_txt_elementone">Charizard</string>
+    <string name="detailpokemon_txt_elementtwo">HP 200</string>
+    <string name="detailpokemon_txt_elementthree">90</string>
+    <string name="detailpokemon_txt_elementfour">Incineración</string>
+    <string name="detailpokemon_txt_elementfive">100</string>
+    <string name="detailpokemon_txt_elementsix">Golpe de calor</string>
+    <string name="detailpokemon_txt_textdescription">Descripción</string>
+    <string name="detailpokemon_txt_description">Es muy presuntuoso, agresivo y muy orgulloso. Es tanto asi , que no es capaz de pelear
+     contra un pokémon mas debil que el y si llegara a pelear con uno, no usaria sus llamas.</string>
+
+    <string name="error_internet_connection">No cuenta con conexión a internet en este momento</string>
+    <string name="error_internet_txt_error"> ¡Precaución!</string>
+
+</resources>
